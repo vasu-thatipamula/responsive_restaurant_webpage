@@ -1,0 +1,250 @@
+#nav-item1 {
+	color: #323f4b;
+	font-family: "Roboto";
+	}
+
+#nav-item2 {
+	color: #323f4b;
+	font-family: "Roboto";
+	}
+	
+#nav-item3 {
+	color: #323f4b;
+	font-family: "Roboto";
+	}
+	
+#nav-item4 {
+	color: #323f4b;
+	font-family: "Roboto";
+	}
+	
+.logo {
+	width: 80px;
+	height: 70px;
+}
+
+.banner-bg-container {
+	background-image : url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+	height: 100vh;
+	background-size: cover;
+}
+
+.banner-heading {
+	color: white;
+	font-family: "Roboto";
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.banner-para {
+	color: white;
+	font-family: "Roboto";
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.view-btn {
+	color: white;
+	background-color: #d0b200;
+	border-radius: 10px;
+	border-width: 0px;
+	font-family:"Roboto";
+	font-size: 16px;
+	height: 45px;
+	width: 120px;
+	margin-right: 10px;
+}
+
+.order-btn {
+	color: #d0b200;
+	border-style: solid;
+	border-radius: 10px;
+	border-width: 2px;
+	font-family:"Roboto";
+	font-size: 16px;
+	height: 45px;
+	width: 120px;
+	border-color: #d0b200;
+	background-color: Transparent;
+	
+}
+
+.wcu-section {
+	background-color: #f9fbf6;
+	
+	}
+	
+.wcu-heading {
+	color: #183b56;
+	font-family:"Roboto";
+	font-size: 26px;
+	font-weight: bold;
+}
+
+.wcu-para {
+	color: #5a7184;
+	font-family:"Roboto";
+	font-size: 20px;
+}
+
+.wcu-card {
+	background-color: white;
+	border-radius: 16px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #e5eaf4;
+	border-width: 1px;
+	padding: 15px;
+	
+}
+
+.img_wcu {
+	height: 110px;
+	width: 80px;
+}
+
+.card-heading {
+	color: #323f4b;
+	font-family:"Roboto";
+	font-size: 22px;
+}
+
+.card-para {
+	color: #7b8794;
+	font-family:"Roboto";
+	font-size: 18px;
+}
+
+	
+.offers {
+	color: #323f4b;
+	font-style: italic;
+	font-weight: 600;
+}
+
+.explore-cont {
+	background-color: white;
+	}
+	
+.explore-heading {
+	color: #183b56;
+	font-family:"Roboto";
+	font-size: 28px;
+	font-weight: 500;
+	}
+	
+.explore_img {
+	border-radius: 16px;
+	
+}
+
+.menu-card {
+	background-color: white;
+	border-radius: 16px;
+}
+
+.menu-card-title {
+	color: #323f4b;
+	font-family:"Roboto";
+	font-size: 22px;
+	font-weight: 500;
+	margin-top: 24px;
+	
+	}
+	
+.menu-item-link {
+	color: #dob200;
+	font-family:"Roboto";
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.health-img {
+	width: 320px;
+	}
+	
+.healthy-cont {
+	background-color: #f9fbfe;
+}
+
+.health-sec-heading {
+	color: #183b56;
+	font-family:"Roboto";
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.health-sec-para {
+	color:#5a7184;
+	font-family:"Roboto";
+	font-size: 20px;
+}
+
+.watch-btn {
+	color: white;
+	background-image: linear-gradient(#d0b200,#a58d900);
+	border-radius: 5px;
+	border-width: 0px;
+	font-family: "Roboto";
+	font-size: 20px;
+	font-weight: 300;
+	height: 50px;
+	width: 135px;
+}
+
+.part-img {
+	height: 70px;
+	width: 70px;
+	margin-right: 24px;
+}
+
+.Thank-cont {
+	background-image: radial-gradient(#fff8db,#fae38c);
+}
+
+.follow {
+	color: #183b56;
+	font-family:"Roboto";
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+.twitter {
+	color: #d0b200;
+	font-size: 40px;
+}
+
+.icons-cont {
+	width: 80px;
+	height: 80px;
+	background-color: #faf7e8;
+	padding-top:22px;
+	padding-right:16px;
+	padding-left:20px;
+	padding-bottom: 18px;
+	margin: 15px;
+	border-radius: 40px;
+}
+
+.insta {
+	color: #d0b200;
+	font-size: 40px;
+} 
+
+.facebook {
+	color: #d0b200;
+	font-size: 40px;
+}
+
+.modal-cust-title {
+	color: #d0b200;
+	font-family:"Roboto";
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.gradient-thankyou {
+		height: 100vh;
+		background-image: linear-gradient(to-right,#2196f3,#f44336);
+}
